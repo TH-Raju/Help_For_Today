@@ -1,0 +1,198 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+
+}
+
+p {
+    font-size: 20px;
+
+}
+
+.title {
+    text-align: center;
+    padding: 300px 50px 60px 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: aliceblue;
+    font-size: large;
+
+}
+
+.title h1 {
+    font-size: 60px;
+}
+
+.donate {
+    text-align: center;
+    padding: 20px;
+}
+
+.donate a {
+    border: 1px solid blue;
+    background-image: linear-gradient(rgb(205, 61, 68), rgb(144, 26, 164));
+    text-decoration: none;
+    padding: 20px;
+    margin-top: 5px;
+    text-align: center;
+    font-weight: 800;
+    font-size: 30px;
+    color: wheat;
+    border-radius: 5px;
+}
+
+.head {
+    background-image: url(img/donation13.jpg);
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    background-size: 100%;
+    padding-bottom: 380px;
+}
+
+.inform {
+    text-align: center;
+    padding: 80px 50px 80px 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: large;
+}
+
+.inform h1 {
+    font-size: 50px;
+}
+
+.money-box {
+    text-align: center;
+    font-size: 30px;
+}
+
+#separate {
+    color: red;
+    border: 2px solid red;
+
+}
+
+.money-box h3 {
+    border: 2px;
+    display: inline-block;
+    padding: 30px;
+}
+
+.in input {
+    padding: 50px;
+    border-width: 0px;
+    border: none;
+    font-size: 30px;
+}
+
+.in {
+    text-align: center;
+}
+
+.donate-amount {
+    margin: 5% 0% 10% 0%;
+}
+
+.plan-head {
+    text-align: center;
+    border-radius: 10px;
+    margin: 5% 30%;
+
+}
+
+.plan-head h1 {
+    font-size: 50px;
+}
+
+.box {
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+
+}
+
+.plan-box {
+    display: flex;
+    margin-left: 10%;
+
+}
+
+.icon {
+    height: 80px;
+}
+
+.foot {
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+    color: aliceblue;
+    margin-top: 10%;
+}
+
+.img {
+    height: 260px;
+    padding-right: 5px;
+    margin-top: 20%;
+}
+
+.information {
+    width: 90%;
+    display: flex;
+    border-left: 5px solid green;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 15px 10px gray;
+
+}
+
+#AU {
+    margin-top: 10%;
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+
+.we-are {
+    display: flex;
+}
+
+.flbox {
+    font-weight: 400;
+}
+
+.dif {
+    border-left: 5px solid red;
+}
+
+.upgrade {
+    margin: 15%;
+}
+
+.subs {
+    text-align: center;
+    border-width: 0px;
+}
+
+.email {
+    font-size: 20px;
+    background-color: rgb(188, 176, 176);
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+}
+
+
+.btn {
+    font-size: 20px;
+    background-color: brown;
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+}
